@@ -1,0 +1,14 @@
+*.tsv
+*.wal
+*.db
+*.gz
+*.log
+*.zip
+*.tar
+*.7z
+*.bak
+*.venv
+*wal
+*-shm
+*-.sqlite
+.venv*
